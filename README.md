@@ -8,4 +8,5 @@ Sheet 7 contains the implementation of the Euler-Maruyana discretization of a SD
 - Randomly perturbed rotaion with damping
 - Physical Brownian motion
 - OL in double-well potential
+
 In addition to the sample paths also the ergodic averages of the components of the processes are computed and plotted.
